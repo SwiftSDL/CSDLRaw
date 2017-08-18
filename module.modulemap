@@ -1,0 +1,5 @@
+module CSDLRaw [system] {
+  header "CSDLRaw.h"
+  link "SDL2"
+  export *
+}
